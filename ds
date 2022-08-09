@@ -11,9 +11,6 @@ Y剧场,http://hms3149nc1972679604.live.aikan.miguvideo.com/wh7f454c46tw23269429
 Y剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 
 云南地方,#genre#
-香格里拉综合,http://39.130.204.134:6610/gitv_live/G_DIQINGXGLL/G_DIQINGXGLL.m3u8?IASHttpSessionId=OTT
-大理州新闻,http://39.130.204.134:6610/gitv_live/G_DALITV-1/G_DALITV-1.m3u8?IASHttpSessionId=OTT
-大理州公共,http://39.130.204.134:6610/gitv_live/G_DALITV-2/G_DALITV-2.m3u8?IASHttpSessionId=OTT
 云南卫视,http://39.130.204.134:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8?IASHttpSessionId=OTT
 云南都市,http://39.130.204.134:6610/gitv_live/G_YNTV-2-HD/G_YNTV-2-HD.m3u8?IASHttpSessionId=OTT
 云南娱乐,http://39.130.204.134:6610/gitv_live/G_YNTV-3-HD/G_YNTV-3-HD.m3u8?IASHttpSessionId=OTT
@@ -23,7 +20,9 @@ Y剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 云南少儿,http://39.130.204.134:6610/gitv_live/G_YNTVSE-HD/G_YNTVSE-HD.m3u8?IASHttpSessionId=OTT
 丽江新闻综合,http://39.130.204.134:6610/gitv_live/G_LIJIANGZH/G_LIJIANGZH.m3u8?IASHttpSessionId=OTT
 丽江公共,http://39.130.204.134:6610/gitv_live/G_LIJIANGGG/G_LIJIANGGG.m3u8?IASHttpSessionId=OTT
-
+香格里拉综合,http://39.130.204.134:6610/gitv_live/G_DIQINGXGLL/G_DIQINGXGLL.m3u8?IASHttpSessionId=OTT
+大理州新闻,http://39.130.204.134:6610/gitv_live/G_DALITV-1/G_DALITV-1.m3u8?IASHttpSessionId=OTT
+大理州公共,http://39.130.204.134:6610/gitv_live/G_DALITV-2/G_DALITV-2.m3u8?IASHttpSessionId=OTT
 
 内蒙古地方,#genre#
 内蒙古卫视,http://123.178.206.42:8000/hls/36/index.m3u8
